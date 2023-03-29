@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "758629268947",
+    "firebase_url": "https://whatsapp-y-reels-55e47-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-y-reels-55e47",
+    "storage_bucket": "whatsapp-y-reels-55e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758629268947:android:bf60cd6987fba159e7c326",
+        "android_client_info": {
+          "package_name": "com.mycompany.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758629268947-sh47lah22ego0e6vv9rhd1b64d6u108g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjKsCALJuDlekaR-yHFfhzE3nY2cfLDI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758629268947-sh47lah22ego0e6vv9rhd1b64d6u108g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758629268947-j4jrr58059k2o6mkpjoj9vp5osu6s844.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.whatsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
